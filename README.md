@@ -25,10 +25,6 @@ Develop a login screen with username and password fields.
 Implement basic validation to ensure inputs are provided.
 
 
-Use a RecyclerView to display a list of saved events.
 
-### Basic Navigation:
-
-Implement **Intents** for smooth navigation between the login, event creation, and event listing screens.
 
 
