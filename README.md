@@ -12,17 +12,18 @@
 
 ## MeetMeWhere
 
+### 04/03/2025
+
+Research ViewBinding and implement ViewBinding in your code:
+
+Medium_What is View Binding in android and how it works internally_URL: https://medium.com/@sandeepkella23/what-is-view-binding-in-android-and-how-it-works-internally-74c9ce0e5422 
+
 ### User Authentication (Local):
 
 Develop a login screen with username and password fields.
+
 Implement basic validation to ensure inputs are provided.
 
-### Event Creation:
-
-Design a screen where users input event title, description, date, and a location.
-Include a button to save event details.
-
-### Event Listing:
 
 Use a RecyclerView to display a list of saved events.
 
