@@ -47,3 +47,16 @@ Intent resources - https://www.geeksforgeeks.org/what-is-intent-in-android/
 
 
 RoomDBResource - https://developer.android.com/training/data-storage/room
+
+
+## **Have this ready for 10 March - Monday:**
+
+
+1. Create a register screen.
+
+   The user should be able to enter a username, a password and confirm their password.
+
+2. The fields should be validated (non-empty fields and ensure the password and confirmation match).
+
+
+
