@@ -59,4 +59,11 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 2. The fields should be validated (non-empty fields and ensure the password and confirmation match).
 
 
+### Fill out this form on group details: 
+
+Only one person from each group must respond.
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=RI8M4Wn0j0S8DdeBKI_wG3g738v0IhlIukhq5khQN1RURFg2Wkc3SVVXTjRHSkxGQVpMVkpLTDA3SC4u 
+
+
 
