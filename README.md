@@ -63,7 +63,15 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 3. When the user logs in make sure that their credentials are validated against the database records
 
 
+Resources: 
 
+Android: Room, Saving Local Data the Modern Way: 
+
+https://medium.com/codex/android-room-saving-local-data-the-modern-way-b5f5f0e8b423  
+
+Save Data on Android Using Room Database and Data Store— Beginners Guide:
+
+https://proandroiddev.com/save-data-on-android-using-room-database-beginners-guide-1398dafabb24 
 
 
 ### Fill out this form on group details: 
