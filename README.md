@@ -54,7 +54,7 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 
 2. The fields should be validated (non-empty fields and ensure the password and confirmation match).
 
-### 10 March - Monday
+### 10 March - Monday.  Finish at home.
 
 1. Save Event details to database.
 
