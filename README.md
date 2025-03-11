@@ -63,6 +63,40 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 3. When the user logs in make sure that their credentials are validated against the database records
 
 
+
+### 11 March 
+
+1. User Entity, DAO and database:
+
+Create UserEntity with a unique username constraint.
+
+Define UserDao with methods to insert a user and query by username.
+
+Update AppDatabase to include both UserEntity and your event entity.
+
+
+2. Register Screen:
+
+
+In RegisterActivity, validate input, check for unique username, insert user, and then pass the username to the event creation screen.
+
+Event Creation Screen:
+
+Retrieve the username from the Intent.
+
+Update a TextView to show a personalised greeting.
+
+
+**Once you're done with writing to and reading from the database:**
+
+
+3. Event Management Screen:
+
+Create a list screen that displays all saved events using RecyclerView.
+
+Allow users to update or delete events.
+
+
 Resources: 
 
 Android: Room, Saving Local Data the Modern Way: 
