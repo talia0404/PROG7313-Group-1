@@ -87,16 +87,6 @@ Retrieve the username from the Intent.
 Update a TextView to show a personalised greeting.
 
 
-**Once you're done with writing to and reading from the database:**
-
-
-3. Event Management Screen:
-
-Create a list screen that displays all saved events using RecyclerView.
-
-Allow users to update or delete events.
-
-
 Resources: 
 
 Android: Room, Saving Local Data the Modern Way: 
@@ -107,6 +97,27 @@ Save Data on Android Using Room Database and Data Store— Beginners Guide:
 
 https://proandroiddev.com/save-data-on-android-using-room-database-beginners-guide-1398dafabb24 
 
+
+## 13 March - 17 March 
+
+**Once you're done with writing to and reading from the database:**
+
+
+3. Event Management Screen:
+
+Create a list screen that displays all saved events using RecyclerView.
+
+Allow users to update or delete events.
+
+Resources: 
+
+Medium, Recycler View for beginners in Android - https://medium.com/@myofficework000/recycler-view-for-beginners-in-android-b54b1f445e38
+
+Create dynamic lists with RecyclerView - https://developer.android.com/develop/ui/views/layout/recyclerview
+
+<br>
+<br>
+<br>
 
 ### Fill out this form on group details: 
 
