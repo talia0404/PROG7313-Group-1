@@ -1,9 +1,8 @@
 # Instructions/Activities:
 
-### Push to git.
-### ICE 2
-
 ### Tip App: https://github.com/talia0404/TipCalculator
+
+### Google Doc - https://docs.google.com/document/d/1e5WptAYcOL2N-XEUSCgOtsnYn_YtUUnwb6RnSyjWwZE/edit?usp=sharing
 
 ## 03/03/25
 
