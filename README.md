@@ -114,6 +114,20 @@ Medium, Recycler View for beginners in Android - https://medium.com/@myofficewor
 
 Create dynamic lists with RecyclerView - https://developer.android.com/develop/ui/views/layout/recyclerview
 
+## 18 March 
+
+RecyclerView  Activity
+
+You have been hired as an Android Developer for a local e-commerce startup that wants to build a simple app for showcasing their latest product catalog. 
+They need a dynamic list where users can see product images, descriptions, and remove items from their cart before making a purchase.
+
+Your task is to implement a RecyclerView that displays a list of products, where each product includes:
+- A product image
+- A product description
+- A Remove button to delete items from the list
+
+The startup wants this feature to be fast, responsive, and user-friendly, so you must implement an efficient RecyclerView with proper data handling.
+
 <br>
 <br>
 <br>
