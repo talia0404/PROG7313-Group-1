@@ -128,6 +128,8 @@ Your task is to implement a RecyclerView that displays a list of products, where
 
 The startup wants this feature to be fast, responsive, and user-friendly, so you must implement an efficient RecyclerView with proper data handling.
 
+Git Repo: https://github.com/talia0404/RecyclerView-Demo
+
 <br>
 <br>
 <br>
