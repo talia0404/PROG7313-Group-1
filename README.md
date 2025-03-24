@@ -143,6 +143,7 @@ Objectives:
 - Handle user sign-up and login.
 - Display appropriate success and error messages.
 
+https://firebase.google.com/docs/android/setup
 
 <br>
 <br>
