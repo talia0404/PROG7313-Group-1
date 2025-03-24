@@ -134,7 +134,7 @@ Git Repo: https://github.com/talia0404/RecyclerView-Demo
 
 Activity: Integrating Firebase Authentication in an Android App
 
-You're developing a simple Login App for a local book club. Members should be able to sign up and log in using their email and password. 
+You're developing a simple Authentication App for a local book club. Members should be able to sign up and log in using their email and password. 
 
 Objectives:
 
