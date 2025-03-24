@@ -130,15 +130,27 @@ The startup wants this feature to be fast, responsive, and user-friendly, so you
 
 Git Repo: https://github.com/talia0404/RecyclerView-Demo
 
+## 24 March 
+
+Activity: Integrating Firebase Authentication in an Android App
+
+You're developing a simple Login App for a local book club. Members should be able to sign up and log in using their email and password. 
+
+Objectives:
+
+- Integrating Firebase Authentication into an Android project.
+- Implement email and password authentication.
+- Handle user sign-up and login.
+- Display appropriate success and error messages.
+
+
 <br>
 <br>
 <br>
 
-### Fill out this form on group details: 
+### Fill out this form for feedback:
 
-Only one person from each group must respond.
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=RI8M4Wn0j0S8DdeBKI_wG3g738v0IhlIukhq5khQN1RURFg2Wkc3SVVXTjRHSkxGQVpMVkpLTDA3SC4u 
+https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=RI8M4Wn0j0S8DdeBKI_wG3g738v0IhlIukhq5khQN1RUNVI0VlpYTTdZOERFS0JSTUFaNTRaOFhCTC4u
 
 
 
