@@ -130,7 +130,7 @@ The startup wants this feature to be fast, responsive, and user-friendly, so you
 
 Git Repo: https://github.com/talia0404/RecyclerView-Demo
 
-## 24 March 
+## 24 March - 25 March
 
 Activity: Integrating Firebase Authentication in an Android App
 
@@ -165,7 +165,7 @@ Go to the Firebase Console > Authentication > Sign-in method and enable Email/Pa
 
 - Implement email and password authentication.
 
-- Create Two Kotlin Classes:
+Create Two Kotlin Classes:
 
 MainActivity.kt for the login screen
 
