@@ -145,6 +145,8 @@ https://firebase.google.com/docs/android/setup
 - Make sure you're using Kotlin version 2.1.0
 - In this site you manually specify versions for each library. This is the  “old” or direct dependency way to add dependencies.
 
+implementation("com.google.firebase:firebase-auth")
+
 Catalog version: 
 
 gradle - module: app:
